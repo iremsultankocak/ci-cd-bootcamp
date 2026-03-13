@@ -11,10 +11,10 @@
 cevaplar = {
 
     # 🌀 Portal 1 — Hoşgeldin Portalı (Gülşah)
-    "vaka1": "a",
+    "vaka1": "MERHABA",
 
     # 🌀 Portal 2 — Sayı Matrisi (Serhat)
-    "vaka2": "",
+    "vaka2": "ALKÜ",
 
     # 🌀 Portal 3 — Makinelerin Dili (Mehmet)
     "vaka3": "",
