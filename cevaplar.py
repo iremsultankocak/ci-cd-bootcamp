@@ -17,27 +17,27 @@ cevaplar = {
     "vaka2": "ALKÜ",
 
     # 🌀 Portal 3 — Makinelerin Dili (Mehmet)
-    "vaka3": "",
+    "vaka3": "CESARET",
 
     # 🌀 Portal 4 — Gizli Portal (Okan)
-    "vaka4": "",
+    "vaka4": "EVREN",
 
     # 🌀 Portal 5 — Koordinat Haritası (Nigina)
-    "vaka5": "",
+    "vaka5": "ROTA",
 
     # 🌀 Portal 6 — İrem'in Şifre Kasası (İrem)
-    "vaka6": "",
+    "vaka6": "ANAHTAR",
 
     # 🌀 Portal 7 — Şiirin Portalı (Kaya)
-    "vaka7": "",
+    "vaka7": "LABİRENT",
 
     # 🌀 Portal 8 — Mors Sinyalleri (Serhat)
-    "vaka8": "",
+    "vaka8": "ARAYIS",
 
     # 🌀 Portal 9 — Mantık Kapısı (Core Crew)
-    "vaka9": "",
+    "vaka9": "REHBER",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
-    "vaka10": "",
+    "vaka10": "MACERALAR",
 
 }
